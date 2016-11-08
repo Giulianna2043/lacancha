@@ -1,0 +1,68 @@
+/* Inserta tu CSS aqui */
+
+
+.contenedor{
+    background-color:mediumseagreen;
+    height: 500px;
+    width: 1000px;
+}
+.raya{
+    border:1px solid white;
+    height: 450px;
+    width: 950px;
+    position: absolute;
+    top:20px;
+    left:20px;
+    right:20px;
+    bottom: 20px;
+}
+
+.arco1{
+    height:200px;
+    width: 100px;
+    border: 1px solid white;
+    position:absolute;
+    left:0px;
+    top:125px;
+}
+
+.arco2{
+    height:200px;
+    width: 100px;
+    border: 1px solid white;
+    position: absolute;
+    left: 850px;
+    top:125px;
+	
+}
+
+.circulo {
+	width: 200px;
+	height: 200px;
+    border: 2px solid white;
+	border-radius: 100%; 
+	position: absolute;
+    right: 370px;
+    top:130px;
+    
+    
+    }
+
+.bola1 {
+  position: absolute;
+  top: 4px;
+  left: 90px;
+}
+
+.bola2 {
+  position: absolute;
+  top:170px;
+  right: 105px;
+}
+
+.bola3 {
+  position: relative;
+  bottom: 50px;
+  left: 110px;
+}
+
