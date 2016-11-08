@@ -3,7 +3,7 @@
     background-color:mediumseagreen;
     height: 500px;
     width: 1000px;
-}
+   }
 .raya{
     border:2px solid white;
     height: 450px;
@@ -11,7 +11,7 @@
     position:relative;
     top:20px;
     left:20px;
-}
+  }
 
 .arco1{
     height:200px;
@@ -20,7 +20,7 @@
     position:absolute;
     left:0px;
     top:125px;
-}
+  }
 
 .arco2{
     height:200px;
